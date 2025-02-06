@@ -38,8 +38,3 @@ This project demonstrates how **business impact forecasting** can be applied to 
 - 🚀 **Deploy a Streamlit dashboard** for live tracking _(optional)_.
 
 ---
-
-## 🎯 How to Use This Project
-1. 📥 **Clone the repo**:
-   ```bash
-   git clone https://github.com/your-username/product-impact-forecasting.git
