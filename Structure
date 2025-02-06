@@ -1,7 +1,8 @@
-📂 product-impact-forecasting
-│── 📜 README.md   # Overview of the project
-│── 📂 data/        # Contains product-impact-forecast.csv
-│── 📂 notebooks/   # Jupyter Notebooks (for forecasting)
-│── 📂 reports/     # Business impact report
-│── 📂 visuals/     # Tableau dashboards, graphs
-│── 📜 requirements.txt  # Python dependencies
+📂 Product-Impact-Forecasting-Valuation/
+│── 📂 data/               # Store raw & processed datasets
+│── 📂 notebooks/          # Jupyter Notebooks for analysis
+│── 📂 src/                # Python scripts (forecasting, analysis)
+│── 📂 dashboards/         # Tableau dashboards, Streamlit (optional)
+│── README.md              # Project overview & instructions
+│── requirements.txt       # List of Python dependencies
+│── .gitignore             # Ignore unnecessary files (e.g., .csv, .ipynb_checkpoints)
