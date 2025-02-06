@@ -1,0 +1,7 @@
+📂 product-impact-forecasting
+│── 📜 README.md   # Overview of the project
+│── 📂 data/        # Contains product-impact-forecast.csv
+│── 📂 notebooks/   # Jupyter Notebooks (for forecasting)
+│── 📂 reports/     # Business impact report
+│── 📂 visuals/     # Tableau dashboards, graphs
+│── 📜 requirements.txt  # Python dependencies
