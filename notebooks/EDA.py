@@ -23,3 +23,34 @@ print("First 5 records:", df.head())
 
 # Display the last 5 records
 print("Last 5 records:", df.tail())
+
+# Step 1: Customer Retention & Churn Analysis
+
+# Define retention groups based on 'Recency' (days since last purchase)
+df["Retention_Status"] = pd.cut(
+    df["Recency"],
+    bins=[-1, 30, 90, 180, 365, float("inf")],
+    labels=["Active (0-30d)", "Engaged (31-90d)", "Warm (91-180d)", "Cold (181-365d)", "At Risk (>365d)"]
+)
+
+# Average spending per retention group
+spending_by_retention = df.groupby("Retention_Status")[
+    ["MntWines", "MntFruits", "MntMeatProducts", "MntFishProducts", "MntSweetProducts", "MntGoldProds"]
+].mean()
+
+# Customer count per retention group
+retention_counts = df["Retention_Status"].value_counts().sort_index()
+
+# Visualization: Retention Group Distribution
+plt.figure(figsize=(10, 5))
+sns.barplot(x=retention_counts.index, y=retention_counts.values, palette="Blues_r")
+plt.title("Customer Retention Segments")
+plt.xlabel("Retention Group")
+plt.ylabel("Number of Customers")
+plt.grid(axis="y")
+
+# Visualization: Spending by Retention Group
+spending_by_retention.plot(kind="bar", figsize=(12, 6), title="Average Spending by Retention Group")
+plt.ylabel("Avg Spending ($)")
+plt.xticks(rotation=45)
+plt.grid(axis="y")
