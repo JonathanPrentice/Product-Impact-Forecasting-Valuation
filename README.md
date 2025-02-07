@@ -47,5 +47,6 @@ This project explores business impact forecasting by tracking customer retention
 - 🔄 **Optimize retention strategies** based on churn patterns.
 - 🚀 **Deploy a Tableau dashboard** for live tracking
 
-🚀 Stay Tuned for More Updates! 🚀
+🚀 Thank you for checking this out! Stay Tuned for More Updates! 🚀
+
 ---
