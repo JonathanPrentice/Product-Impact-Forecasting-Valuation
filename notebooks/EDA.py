@@ -1,16 +1,15 @@
-import pandas as pd
+import pandas as pd 
+import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 
-# Load Dataset
-file_path = "/kaggle/input/customer-segmentation-clustering/customer_segmentation.csv"  #
-df = pd.read_csv(file_path)
+# Load the data
+data = pd.read_csv('data.csv')
 
-# Display the first 5 rows of the dataset
-df.head()
+# Display the first 5 rows of the data
+data.head()
 
-# Display the last 5 rows of the dataset
-df.tail()
+# Display the last 5 rows of the data
+data.tail()
 
-# Display the shape of the dataset
-df.shape
