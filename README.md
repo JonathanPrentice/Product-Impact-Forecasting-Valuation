@@ -7,30 +7,19 @@ _A data-driven project measuring product adoption, retention, and business impac
 ## 🚀 Overview
 This project demonstrates how **business impact forecasting** can be applied to track **product adoption, revenue impact, and churn rates**. The goal is to simulate how companies measure **real-time product success** and **forecast future trends**.
 
-## 📂 Dataset
-- **File:** `data/product_impact_forecast.csv`
+## 📂 Dataset 
+- **File:** "/kaggle/input/customer-segmentation-clustering/customer_segmentation.csv"
 - **Contains:** 1 year of simulated data tracking:
   - 📈 **Adoption Rate**: How many users engage with a product?
   - 💰 **Revenue Growth**: How much impact does the product generate?
   - 🔄 **Retention Rate**: How many users continue using the product?
   - ❌ **Churn Rate**: How many users leave?
 
-## 1️⃣ Step 1: Customer Retention & Churn Analysis
- - Why? → Keeping customers is cheaper than acquiring new ones. We’ll analyze:
- - ✅ Who are the loyal customers? (low recency, high spending)
- - ✅ Who is at risk of churn? (high recency, low engagement)
- - ✅ What factors drive retention? (income, campaign responses, complaints)
+## 📊 Tableau Visualization - Coming soon..
+[🔗 **Tableau Dashboard Link**](#) _(Upload to Tableau Public & share link)_ -  
 
- - Deliverables:
- - 📊 Customer Segmentation (Loyal vs. At-Risk) Report
- - 📈 Retention Insights
-
-
-## 📊 Tableau Visualization
-[🔗 **Tableau Dashboard Link**](#) _(Upload to Tableau Public & share link)_ -  Coming soon..
-
-## 🔮 Forecasting Approach
-- Used **Python & ARIMA/Prophet** to generate **product demand forecasts**.
+## 🔮 Forecasting Approach - Coming soon..
+- Used **Python** to generate **product demand forecasts**.
 - Built **a KPI scorecard in Tableau** to track trends over time.
 
 ## 📜 Business Insights
@@ -39,7 +28,7 @@ This project demonstrates how **business impact forecasting** can be applied to 
 - 🔍 Forecasting helped **predict growth trends for better decision-making**.
 
 ## 💻 Tools Used
-- **Python (Pandas, ARIMA)**
+- **Python (Pandas)**
 - **Tableau (Dashboards, KPI Scorecards)**
 - **GitHub (Project Management)**
 
