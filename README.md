@@ -19,19 +19,19 @@ This project explores business impact forecasting by tracking customer retention
    - Wine & Meat Products dominate customer spending across all retention categories.
    - Customers in the Warm (91-180 days) category spend slightly more on meat products than others.
 
-  📢 Marketing Campaign Effectiveness - Coming Soon
+  📢 Marketing Campaign Effectiveness - Coming Soon...
    - Which campaigns drive higher retention and repeat purchases?
    - Who responds best to marketing offers?
 
-  🔮 Forecasting Approach - Coming soon..
+  🔮 Forecasting Approach - Coming Soon...
    - Predicting churn risk – Identifying customers most likely to leave.
    - Revenue forecasting – Estimating product growth trends.
    - Customer segmentation analysis – Targeting high-value users.
  
-## 📊 Tableau Visualization - Coming soon..
+## 📊 Tableau Visualization - Coming Soon...
 - 🔗 **Tableau Dashboard Link**](#) _(Upload to Tableau Public & share link)_ -  
 
-## 📜 Business Insights
+## 📜 Business Insights - Coming Soon...
 - 📌 A **_% increase in adoption** resulted in a **_% revenue uplift**.
 - 📉 A **high churn rate of _%** signaled a need for better retention strategies.
 - 🔍 Forecasting helped **predict growth trends for better decision-making**.
@@ -41,7 +41,7 @@ This project explores business impact forecasting by tracking customer retention
 - **Tableau** – Dashboards & KPI Scorecards
 - **GitHub** – Project Management & Version Control
 
-## 📢 Next Steps
+## 📢 Next Steps 
 - 📊 **Expand forecasting models** Expand forecasting models using external factors (marketing spend, seasonality).
 - 🔄 **Optimize retention strategies** based on churn patterns.
 - 🚀 **Deploy a Tableau dashboard** for live tracking
