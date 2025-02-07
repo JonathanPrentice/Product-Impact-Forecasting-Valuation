@@ -6,6 +6,7 @@ This project explores business impact forecasting by tracking customer retention
 
 ## 📂 Dataset 
 **File:** "/kaggle/input/customer-segmentation-clustering/customer_segmentation.csv"
+
 **Contains:** 1 year of simulated data tracking:
   - 📈 **Adoption Rate**: How many users engage with a product?
   - 💰 **Revenue Growth**: How much financial impact does customer behavior generate?
