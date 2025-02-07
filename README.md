@@ -15,6 +15,17 @@ This project demonstrates how **business impact forecasting** can be applied to 
   - 🔄 **Retention Rate**: How many users continue using the product?
   - ❌ **Churn Rate**: How many users leave?
 
+## 1️⃣ Step 1: Customer Retention & Churn Analysis
+ - Why? → Keeping customers is cheaper than acquiring new ones. We’ll analyze:
+ - ✅ Who are the loyal customers? (low recency, high spending)
+ - ✅ Who is at risk of churn? (high recency, low engagement)
+ - ✅ What factors drive retention? (income, campaign responses, complaints)
+
+ - Deliverable:
+ - 📊 Customer Segmentation (Loyal vs. At-Risk) Report
+ - 📈 Retention Insights
+
+
 ## 📊 Tableau Visualization
 [🔗 **Tableau Dashboard Link**](#) _(Upload to Tableau Public & share link)_ -  Coming soon..
 
