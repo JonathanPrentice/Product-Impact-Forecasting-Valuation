@@ -21,7 +21,7 @@ This project demonstrates how **business impact forecasting** can be applied to 
  - ✅ Who is at risk of churn? (high recency, low engagement)
  - ✅ What factors drive retention? (income, campaign responses, complaints)
 
- - Deliverable:
+ - Deliverables:
  - 📊 Customer Segmentation (Loyal vs. At-Risk) Report
  - 📈 Retention Insights
 
