@@ -5,12 +5,12 @@
 This project explores business impact forecasting by tracking customer retention, spending behavior, and marketing effectiveness. The objective is to understand how companies measure real-time product success, predict future trends, and optimize customer engagement strategies.
 
 ## 📂 Dataset 
-- **File:** "/kaggle/input/customer-segmentation-clustering/customer_segmentation.csv"
-- **Contains:** 1 year of simulated data tracking:
-   - 📈 **Adoption Rate**: How many users engage with a product?
-   - 💰 **Revenue Growth**: How much financial impact does customer behavior generate?
-   - 🔄 **Retention Rate**: How many users continue using the product over time?
-   - ❌ **Churn Rate**: How many customers are at risk of leaving?
+**File:** "/kaggle/input/customer-segmentation-clustering/customer_segmentation.csv"
+**Contains:** 1 year of simulated data tracking:
+  - 📈 **Adoption Rate**: How many users engage with a product?
+  - 💰 **Revenue Growth**: How much financial impact does customer behavior generate?
+  - 🔄 **Retention Rate**: How many users continue using the product over time?
+  - ❌ **Churn Rate**: How many customers are at risk of leaving?
   
 🔍 Data Analysis & Key Findings
   ✅ Customer Retention & Spending Analysis
@@ -23,14 +23,13 @@ This project explores business impact forecasting by tracking customer retention
    - Which campaigns drive higher retention and repeat purchases?
    - Who responds best to marketing offers?
 
-  ## 🔮 Forecasting Approach - Coming soon..
+  🔮 Forecasting Approach - Coming soon..
    - Predicting churn risk – Identifying customers most likely to leave.
    - Revenue forecasting – Estimating product growth trends.
    - Customer segmentation analysis – Targeting high-value users.
-
-
+ 
 ## 📊 Tableau Visualization - Coming soon..
-🔗 **Tableau Dashboard Link**](#) _(Upload to Tableau Public & share link)_ -  
+- 🔗 **Tableau Dashboard Link**](#) _(Upload to Tableau Public & share link)_ -  
 
 ## 📜 Business Insights
 - 📌 A **_% increase in adoption** resulted in a **_% revenue uplift**.
@@ -48,5 +47,4 @@ This project explores business impact forecasting by tracking customer retention
 - 🚀 **Deploy a Tableau dashboard** for live tracking
 
 🚀 Stay Tuned for More Updates! 🚀
-
 ---
